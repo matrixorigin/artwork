@@ -1,0 +1,2 @@
+create_table_statement
+     ::= 'CREATE' 'TABLE' (| 'IF' 'NOT' 'EXISTS') table_name
