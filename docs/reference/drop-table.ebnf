@@ -1,0 +1,2 @@
+drop_table_statement
+     ::= 'DROP' 'TABLE' (| 'IF' 'EXISTS') table_name
